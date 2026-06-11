@@ -3,7 +3,9 @@
 This system detects violent activity in videos using Deep Learning.
 
 • MobileNetV2 for spatial feature extraction
+
 • LSTM for temporal sequence learning
+
 • Binary Classification (Violence / Non-Violence)
 
 I train the model on kaggle and downlaod it on my computer then make interface on streamlit using VS Code
